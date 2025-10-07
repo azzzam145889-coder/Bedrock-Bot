@@ -1,8 +1,8 @@
 const { createClient } = require('bedrock-protocol');
 
 const client = createClient({
-  host: 'FriendsServer-cbW7.aternos.me', // عنوان السيرفر
-  port: 16622,                            // رقم البورت
+  host: 'emerald.magmanode.com', // عنوان السيرفر
+  port: 33760,                            // رقم البورت
   username: 'BotBuddy',                   // اسم البوت في اللعبة
   offline: true                           // دخول بدون Xbox Live
 });
